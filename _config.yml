@@ -63,6 +63,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Joehuu"
+    - label: "Joehu#0001"
+      icon: "fab fa-fw fa-discord"
+      url: "/social#Discord"
 
 footer:
   links:
