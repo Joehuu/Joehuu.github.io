@@ -3,7 +3,7 @@ permalink: /social/
 title: "Social Platforms"
 ---
 
-Here is a list of social platforms that I use. Note that I won't add anyone I don't know, so sorry in advance!
+Here is a list of social platforms that I actively use. Follow me if you want but note that I won't add anyone I don't know, so sorry in advance!
 
 ## Discord
 
