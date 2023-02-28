@@ -66,6 +66,15 @@ author:
     - label: "Joehu#0001"
       icon: "fab fa-fw fa-discord"
       url: "/social#Discord"
+    - label: "osu!"
+      icon: "fas fa-fw fa-link"
+      url: "https://osu.ppy.sh/users/8549835"
+    - label: "MyAnimeList"
+      icon: "fas fa-fw fa-link"
+      url: "https://myanimelist.net/profile/Joehu"
+    - label: "MyFigureCollection"
+      icon: "fas fa-fw fa-link"
+      url: "https://myfigurecollection.net/profile/Joehu"
 
 footer:
   links:
