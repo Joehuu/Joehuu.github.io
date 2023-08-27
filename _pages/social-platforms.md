@@ -9,7 +9,7 @@ Here is a list of social platforms that I actively use. Follow me if you want bu
 
 This is where this site is hosted and where the osu! source code is for me to contribute. I also maintain a Rainmeter suite, but it's somewhat unpolished so YMMV.
 
-## Discord
+## Discord: joehuu
 
 This section is mostly here to link the Discord thing on the left to something, but I regularly check on the [osu! server](https://discord.gg/ppy) every day.
 
