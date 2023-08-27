@@ -60,21 +60,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Someone who likes fixing small things"
   links:
-    - label: "Joehuu"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Joehuu"
     - label: "joehuu"
       icon: "fab fa-fw fa-discord"
       url: "/social#Discord"
-    - label: "osu!"
+    - label: "Linktree"
       icon: "fas fa-fw fa-link"
-      url: "https://osu.ppy.sh/users/8549835"
-    - label: "MyAnimeList"
-      icon: "fas fa-fw fa-link"
-      url: "https://myanimelist.net/profile/Joehu"
-    - label: "MyFigureCollection"
-      icon: "fas fa-fw fa-link"
-      url: "https://myfigurecollection.net/profile/Joehu"
+      url: "https://linktr.ee/joehuu"
 
 footer:
   links:
