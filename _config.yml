@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Joehu's Site
+title: Joehu's Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A site of an osu! player who became interested in coding.
+  A blog of an osu! player who became interested in coding.
 twitter_username: username
 github_username: Joehuu
 minimal_mistakes_skin: dark
