@@ -11,7 +11,7 @@ This is where this site is hosted and where the osu! source code is for me to co
 
 ## Discord: joehuu
 
-This section is mostly here to link the Discord thing on the left to something, but I regularly check on the [osu! server](https://discord.gg/ppy) every day.
+I regularly check on the [osu! server](https://discord.gg/ppy) every day.
 
 ## [osu!](https://osu.ppy.sh/users/8549835)
 
