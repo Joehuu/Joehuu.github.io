@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+Gemfile linguist-detectable=false
+*.md linguist-detectable
+*.yml linguist-detectable
